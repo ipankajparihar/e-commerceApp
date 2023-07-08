@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ipankajparihar/e-commerceApp/static/css/main.582316d4.css",
+    "main.js": "/ipankajparihar/e-commerceApp/static/js/main.c0bad938.js",
+    "index.html": "/ipankajparihar/e-commerceApp/index.html",
+    "main.582316d4.css.map": "/ipankajparihar/e-commerceApp/static/css/main.582316d4.css.map",
+    "main.c0bad938.js.map": "/ipankajparihar/e-commerceApp/static/js/main.c0bad938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.582316d4.css",
+    "static/js/main.c0bad938.js"
+  ]
+}
