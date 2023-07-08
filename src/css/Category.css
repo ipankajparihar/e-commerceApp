@@ -1,0 +1,43 @@
+/* Assuming you have a CSS file called Home.css */
+
+.Category {
+  /* Center align the product list */
+  display: flex;
+  justify-content: center;
+}
+
+.Products {
+  /* Set a maximum width for the product list */
+  max-width: 800px;
+}
+
+.Category ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Category li {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.Category li img {
+  width: 100px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.Category li h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.Category li p {
+  margin: 0;
+  font-size: 14px;
+  color: #888;
+}
